@@ -1,0 +1,13 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/54afb0f9/
+DefaultMethod	src\\main\\java\\java8\\interface\\DefaultMethod.java	/^public interface DefaultMethod$/;"	i
+Main	src\\main\\java\\Main.java	/^public class Main$/;"	c
+getValue	src\\main\\java\\java8\\interface\\DefaultMethod.java	/^    default String getValue()$/;"	m	interface:DefaultMethod
+gradle.version	.gradle\\buildOutputCleanup\\cache.properties	/^gradle.version=4.6$/;"	k
+java8.interface	src\\main\\java\\java8\\interface\\DefaultMethod.java	/^package java8.interface;$/;"	p
+main	src\\main\\java\\Main.java	/^    public static void main(String[] arguments) throws Exception$/;"	m	class:Main
